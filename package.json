@@ -1,0 +1,23 @@
+{
+    "name": "frecs",
+    "version": "0.0.1-a",
+    "description": "Lightweight ES6 functional reactive entity-component-system (ECS) library",
+    "main": "index.js",
+    "author": "Dmitry S. Vasilev",
+    "license": "MIT",
+    "keywords": [
+        "tiny",
+        "lightweight",
+        "micro",
+        "reactive",
+        "ecs",
+        "entity",
+        "component",
+        "system",
+        "npm",
+        "package"
+    ],
+    "dependencies": {
+        "es-arguments": "^1.0.2"
+    }
+}
